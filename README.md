@@ -23,17 +23,9 @@ This project relies on [NFT Contracts](https://github.com/silviopaganini/nft-con
 7. Metadata and marketplace on Opensea.io
 8. Metadata and IPFS Lambda functions on AWS
 
-<hr />
 
-See it live on [Rinkeby Network](https://nft.s2paganini.com) 
 
-See [my portfolio](https://s2paganini.com/case/ckm0zl44o0w1i0a54lryryi1d) for more details 
 
-<hr />
-
-## ETH-USD Service
-
-It's been transferred to the [NFT Lambda Service](https://github.com/silviopaganini/nft-market-service) repository.
 
 ## ⚡️ Tech-Stack
 
@@ -66,6 +58,6 @@ REACT_APP_RPC_URL_4=https://rinkeby.infura.io/v3/INFURA_KEY
 
 Donations in ETH or BTC are welcome 
 
-**ETH** `0xD20634a78Fa0e98104419a63C278648ccCff4Ce7`
+**ETH** `0x2Bed009b2E94aFB55dE81450178D8a3D33D72Aa3`
 
-**BTC** `35pDYqWj5zyogGbNb15W44e9veu6899cZj`
+**BTC** `bc1qt0375wyn8a73yvcfcqvksnewlrlcuajcg7rhw8`
